@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SamayW/scope-releases/releases/latest"><b>⬇ Download the latest version</b></a>
+  <a href="https://github.com/SamayW/scope-releases/releases/latest/download/Scope-mac-arm64.dmg"><b>⬇ Download Scope for Mac</b></a> (Apple Silicon · always the newest version)
 </p>
 
 ---
@@ -17,7 +17,7 @@
 
 | Your computer | File |
 |---|---|
-| Mac with Apple Silicon (M1, M2, M3, M4…) | **[Scope-0.2.0-arm64.dmg](https://github.com/SamayW/scope-releases/releases/download/v0.2.0/Scope-0.2.0-arm64.dmg)** |
+| Mac with Apple Silicon (M1, M2, M3, M4…) | **[Download Scope.dmg](https://github.com/SamayW/scope-releases/releases/latest/download/Scope-mac-arm64.dmg)** — one click, always the latest |
 | Intel Mac · Windows | Not yet — coming soon |
 
 ### Install
@@ -26,7 +26,7 @@
    Open **System Settings → Privacy & Security**, scroll down and click **Open Anyway**, then open Scope again.
 3. Sign in with a passkey (Touch ID) and pick how you'll use Scope. That's it.
 
-When a new version is out, Scope tells you and offers a Download button.
+When a new version is out, Scope shows “Version X is available” — one click on **Download** gets the new installer.
 
 ## What's inside
 
